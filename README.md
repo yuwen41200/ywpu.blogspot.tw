@@ -2,7 +2,7 @@
  
 Google Blogger Backup
 
-http://ywpu.blogspot.tw/
+http://blog.ywpu.me/
 
 ## License ##
 
